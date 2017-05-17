@@ -1,3 +1,5 @@
+<!--Test -->
+
 <?php
 
 if( !isset($_GET['name']) ) {               // Wenn name = null dann schreibe keinen Namen, unterdrückt Notiz
